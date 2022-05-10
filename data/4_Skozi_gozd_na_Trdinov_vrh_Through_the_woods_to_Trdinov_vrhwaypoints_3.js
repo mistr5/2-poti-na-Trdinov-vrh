@@ -1,0 +1,1 @@
+var json_4_Skozi_gozd_na_Trdinov_vrh_Through_the_woods_to_Trdinov_vrhwaypoints_3 = {"type":"FeatureCollection","name":"4_Skozi_gozd_na_Trdinov_vrh_Through_the_woods_to_Trdinov_vrhwaypoints_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
